@@ -36,7 +36,7 @@
 
 ---
 
-## ⚡ Tech Arsenal
+##  Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,php,cs&theme=dark&perline=10" />
@@ -46,14 +46,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduLps1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=7b2ff7&icon_color=7b2ff7&text_color=c9d1d9" />
@@ -70,15 +70,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EduLps1&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/EduLps1/Academic-Workflow">
@@ -91,16 +83,16 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/dev-eduardo-lopes01/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@email.com">
+  <a href="mailto:eduardo.torres@mail.uft.edu.br">
     <img src="https://img.shields.io/badge/Email-7b2ff7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/seu-instagram">
+  <a href="https://www.instagram.com/edu_sx2/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -108,8 +100,7 @@
 ---
 
 <p align="center">
-  <i>💀 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7b2ff7,100:4a0e8f&height=120&section=footer" />
-
